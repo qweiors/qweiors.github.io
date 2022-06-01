@@ -1,0 +1,14 @@
+#bookTable{
+    width: 1000px;
+    background-color: rgba(0,0,0,0.2);
+    padding: 10px;
+    line-height: 25px;
+    text-align: center;
+    border-color: #0c0000;
+    border-collapse: collapse;
+}
+
+#bookInformation{
+    margin-left: 17%;
+    margin-top: 3%;
+}

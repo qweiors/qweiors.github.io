@@ -1,0 +1,33 @@
+table{
+    margin: auto;
+    width: 1000px;
+    background-color: rgba(0,0,0,0.2);
+    padding: 10px;
+    line-height: 25px;
+    text-align: center;
+    border-color: #0c0000;
+    border-collapse: collapse;
+}
+
+#borrow{
+    height:200px;
+    overflow-y:auto;
+}
+
+#reserve2{
+    height:150px;
+    overflow-y:auto;
+}
+
+#history2{
+    height:300px;
+    overflow-y:auto;
+}
+
+table{
+    border: #0a0404 2px solid;
+}
+
+.div_empty {
+    height: 24px;
+}
